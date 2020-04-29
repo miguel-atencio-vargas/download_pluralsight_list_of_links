@@ -1,0 +1,17 @@
+https://app.pluralsight.com/library/courses/designing-advanced-security-aws
+https://app.pluralsight.com/library/courses/designing-scalable-systems-aws
+https://app.pluralsight.com/library/courses/implementing-analytics-real-time-data-aws
+https://app.pluralsight.com/library/courses/gaining-operational-excellence-aws
+https://app.pluralsight.com/library/courses/aws-architecting-reliability
+https://app.pluralsight.com/library/courses/architecting-security-aws
+https://app.pluralsight.com/library/courses/aws-architecting-cost
+https://app.pluralsight.com/library/courses/architecting-operational-excellence-aws
+https://app.pluralsight.com/library/courses/architecting-performance-efficiency-aws
+https://app.pluralsight.com/library/courses/demystifying-aws-certified-solutions-architect-associate-exam
+https://app.pluralsight.com/library/courses/automating-aws-operations-aws-cli
+https://app.pluralsight.com/library/courses/deploying-application-aws
+https://app.pluralsight.com/library/courses/aws-operations-devops-getting-started
+https://app.pluralsight.com/library/courses/aws-operations-designing-infrastructure-deployment
+https://app.pluralsight.com/library/courses/aws-operations-deploying-basic-infrastructure
+https://app.pluralsight.com/library/courses/aws-operations-managing
+https://app.pluralsight.com/library/courses/implementing-testing-blue-green-deployments-aws

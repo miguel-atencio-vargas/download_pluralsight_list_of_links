@@ -1,0 +1,17 @@
+AWS Certified Solutions Architect Professional Designing for Advanced Security within AWS
+AWS Certified Solutions Architect Professional designing scalable systems aws
+AWS Certified Solutions Architect Professional Implementing Analytics and Real Time Data in AWS
+AWS Certified Solutions Architect Professional Gaining Operational Excellence within AWS
+AWS Certified Solutions Architect Associate Architecting for Reliability on AWS
+AWS Certified Solutions Architect Associate Architecting for Security on AWS
+AWS Certified Solutions Architect Associate Architecting for Cost on AWS
+AWS Certified Solutions Architect Associate Architecting for Operational Excellence on AWS
+AWS Certified Solutions Architect Associate Architecting for Performance Efficiency on AWS
+AWS Certified Solutions Architect Associate Demystifying the AWS Certified Solutions Architect Associate Exam
+AWS Operations Automating AWS Operations with the AWS CLI
+AWS Operations Deploying an Application on AWS
+AWS Operations DevOps on AWS Getting Started
+AWS Operations Designing Infrastructure Deployment on AWS
+AWS Operations Deploying Basic Infrastructure Services on AWS
+AWS Operations Managing AWS Operations
+AWS Operations Implementing and Testing BlueGreen Deployments on AWS
